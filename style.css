@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    display: flex;
+    padding: 0 10px;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #77a4ff, #ba3ada);
+}
+
+.container {
+    width: 100%;
+    max-width:  540px;
+    background-color: aliceblue;
+    padding: 10px;
+}
